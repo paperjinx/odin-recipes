@@ -12,3 +12,16 @@ h1{
 li{
     font-size: 28px;
 }
+.list{
+    padding: 30px;
+    text-align: center;
+    margin: 10px;
+    
+}
+
+.title{
+    padding: 20px;
+    background-color: #234f5d4b;
+    margin: 10px;
+
+}
